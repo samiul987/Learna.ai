@@ -1,0 +1,54 @@
+{
+  "entities": {
+    "User": {
+      "title": "User",
+      "description": "User profile information",
+      "type": "object",
+      "properties": {
+        "uid": { "type": "string" },
+        "email": { "type": "string", "format": "email" },
+        "displayName": { "type": "string" },
+        "createdAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["uid", "email"]
+    },
+    "ChatRoom": {
+      "title": "Chat Room",
+      "description": "Metadata for a chat session",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "title": { "type": "string" },
+        "createdAt": { "type": "string", "format": "date-time" },
+        "updatedAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["id", "title"]
+    },
+    "Message": {
+      "title": "Message",
+      "description": "A single message in a chat room",
+      "type": "object",
+      "properties": {
+        "role": { "type": "string", "enum": ["user", "aura"] },
+        "content": { "type": "string" },
+        "image": { "type": "string" },
+        "timestamp": { "type": "string", "format": "date-time" }
+      },
+      "required": ["role", "content", "timestamp"]
+    }
+  },
+  "firestore": {
+    "/users/{userId}": {
+      "schema": "User",
+      "description": "User profile"
+    },
+    "/users/{userId}/chatRooms/{roomId}": {
+      "schema": "ChatRoom",
+      "description": "Chat room metadata"
+    },
+    "/users/{userId}/chatRooms/{roomId}/messages/{messageId}": {
+      "schema": "Message",
+      "description": "Individual messages in a room"
+    }
+  }
+}

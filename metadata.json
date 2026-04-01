@@ -1,0 +1,8 @@
+{
+  "name": "Learna AI - Your Personal Learning Companion",
+  "description": "An interactive AI teacher and friend that helps you learn, creates routines, and analyzes study materials with a unique animated character.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

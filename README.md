@@ -1,2 +1,104 @@
-# Learna.ai
-This AI is user friendly to all students. Students will visit the AI and click on the Learna AI option which will take them directly to the AI assistant.  After that, they can ask any question to the AI and it will provide a perfect, well-structured answer to the student. The experience is seamless, fast, and designed specifically for learners.
+# 🚀 LearnA AI – Smart Learning Platform { Dark Shell }
+
+**Developed by Team: Dark Shell 🛡️**
+
+LearnA AI হলো একটি AI-চালিত স্মার্ট লার্নিং প্ল্যাটফর্ম, যা শিক্ষার্থীদের জন্য পার্সোনালাইজড শিক্ষা, স্কিল ডেভেলপমেন্ট এবং ক্যারিয়ার গাইডেন্স প্রদান করে। এই প্ল্যাটফর্মটি এমনভাবে ডিজাইন করা হয়েছে যাতে একজন ইউজার খুব সহজেই নিজের ক্লাস, সাবজেক্ট এবং প্রয়োজন অনুযায়ী কনটেন্ট পেতে পারে।
+
+---
+
+## 🌟 Project Overview
+
+LearnA AI একটি ওয়েব-ভিত্তিক প্ল্যাটফর্ম যেখানে একজন ইউজার:
+
+* নিজের ক্লাস ও সাবজেক্ট সিলেক্ট করতে পারে
+* AI এর সাহায্যে প্রশ্নের উত্তর পেতে পারে
+* লার্নিং পাথ এবং স্টাডি গাইড পেতে পারে
+* বিভিন্ন শিক্ষামূলক টুল ব্যবহার করতে পারে
+
+এই প্ল্যাটফর্মটি বিশেষভাবে শিক্ষার্থীদের শেখাকে সহজ, দ্রুত এবং ইন্টারেক্টিভ করার জন্য তৈরি করা হয়েছে।
+
+---
+
+## 🔑 Core Features
+
+### 🎯 1. Smart Subject & Class Selection
+
+* ইউজার প্রথমে নিজের ক্লাস এবং সাবজেক্ট নির্বাচন করে
+* এর উপর ভিত্তি করে পুরো কনটেন্ট পার্সোনালাইজড হয়
+
+---
+
+### 🤖 2. AI Learning Assistant
+
+* ইউজার যেকোনো প্রশ্ন করতে পারে
+* AI থেকে সংক্ষিপ্ত এবং ডিটেইলড উত্তর পাওয়া যায়
+* পড়াশোনার জন্য দ্রুত হেল্প
+
+---
+
+### 📚 3. Study Content Generator
+
+* নির্দিষ্ট টপিক অনুযায়ী নোট তৈরি করা যায়
+* শর্ট সামারি এবং এক্সপ্লানেশন পাওয়া যায়
+* পরীক্ষার প্রস্তুতির জন্য উপকারী
+
+---
+
+### 🧠 4. Personalized Learning Path
+
+* ইউজারের প্রয়োজন অনুযায়ী লার্নিং রোডম্যাপ তৈরি হয়
+* কোন টপিক আগে পড়বে, কোনটা পরে — সব সাজানো থাকে
+
+---
+
+### 🎮 5. Interactive Learning Experience
+
+* লার্নিংকে বোরিং না করে ইন্টারেক্টিভ করা হয়েছে
+* ইউজার ফ্রেন্ডলি UI/UX
+* সহজে নেভিগেশন করা যায়
+
+---
+
+### 💳 6. Recharge & Access System
+
+* প্ল্যাটফর্মে বিভিন্ন রিচার্জ অপশন রয়েছে
+* প্রতিটি রিচার্জের আগে একটি সংক্ষিপ্ত সামারি দেখানো হয়
+* এরপর ইউজার বিভিন্ন প্যাকেজ দেখতে পারে
+
+---
+
+### 🎯 7. Game-Based Learning Section
+
+* ইউজার ক্লাস ও সাবজেক্ট সিলেক্ট করার পর গেম সেকশনে ঢুকতে পারে
+* শিক্ষামূলক গেমের মাধ্যমে শেখা আরও মজার হয়
+
+---
+
+## 🛠️ Technology Stack
+
+* HTML
+* CSS
+* JavaScript
+* Node.js (for local development)
+
+---
+
+## 👨‍💻 Team Information
+
+**Team Name:** Dark Shell
+এই প্রজেক্টটি সম্পূর্ণভাবে Team Dark Shell দ্বারা ডেভেলপ করা হয়েছে।
+
+---
+
+## ⚠️ Important Notice
+
+এই প্রজেক্টটি ফ্রি হোস্টিং ব্যবহার করে চালানো হচ্ছে।
+এই কারণে API environment সবসময় সঠিকভাবে কাজ নাও করতে পারে।
+
+👉 ফলে, AI ফিচারগুলো এখানে পুরোপুরি পরীক্ষা করা সম্ভব নাও হতে পারে।
+
+🔧 সম্পূর্ণ ফিচার টেস্ট করতে চাইলে:
+
+* পুরো repository download করুন
+* লোকালভাবে সেটআপ করে ব্যবহার করুন
+
